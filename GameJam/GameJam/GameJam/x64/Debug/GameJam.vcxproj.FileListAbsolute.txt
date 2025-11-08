@@ -1,0 +1,16 @@
+C:\Users\RODRIGO\Desktop\GameJam\GameJam\x64\Debug\GameJam.vcxproj.AssemblyReference.cache
+C:\Users\RODRIGO\Desktop\GameJam\GameJam\x64\Debug\GameJam.MenuForm.resources
+C:\Users\RODRIGO\Desktop\GameJam\GameJam\x64\Debug\GameJam.vcxproj.GenerateResource.cache
+C:\Users\RODRIGO\Desktop\GameJam\GameJam\x64\Debug\GameJam.JuegoForm.resources
+C:\Users\RODRIGO\Desktop\GameJam\GameJam\x64\Debug\GameJam.PowerUp.resources
+C:\Users\RODRIGO\OneDrive\Imágenes\GameJam\GameJam\x64\Debug\GameJam.vcxproj.AssemblyReference.cache
+C:\Users\RODRIGO\OneDrive\Imágenes\GameJam\GameJam\x64\Debug\GameJam.JuegoForm.resources
+C:\Users\RODRIGO\OneDrive\Imágenes\GameJam\GameJam\x64\Debug\GameJam.MenuForm.resources
+C:\Users\RODRIGO\OneDrive\Imágenes\GameJam\GameJam\x64\Debug\GameJam.PowerUp.resources
+C:\Users\RODRIGO\OneDrive\Imágenes\GameJam\GameJam\x64\Debug\GameJam.vcxproj.GenerateResource.cache
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.vcxproj.AssemblyReference.cache
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.JuegoForm.resources
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.MenuForm.resources
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.PowerUp.resources
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.vcxproj.GenerateResource.cache
+D:\GameJam\GameJam\GameJam\x64\Debug\GameJam.JuegoAutomaticoForm.resources

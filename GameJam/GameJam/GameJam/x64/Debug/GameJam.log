@@ -1,0 +1,186 @@
+﻿  JuegoAutomaticoForm.cpp
+  MenuForm.cpp
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(391,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(391,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(401,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(401,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(413,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(413,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(517,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(518,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(520,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(521,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(524,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(525,88): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(527,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(528,104): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(546,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(546,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(547,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(547,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(548,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(548,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "JuegoAutomaticoForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(182,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(182,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(192,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(192,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(203,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(203,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(451,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(452,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(454,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(455,89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(458,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(459,87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(461,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(462,103): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(482,89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(482,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(483,89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(483,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(484,89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoForm.h(484,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(391,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(391,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(401,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(401,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(413,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(413,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(517,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(518,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(520,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(521,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(524,73): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(525,88): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(527,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(528,104): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(546,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(546,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(547,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(547,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(548,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\JuegoAutomaticoForm.h(548,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MenuForm.cpp")
+  
+D:\GameJam\GameJam\GameJam\MenuForm.cpp(5,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generando código...
+  JuegoAutomaticoForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  GameJam.vcxproj -> D:\GameJam\GameJam\x64\Debug\GameJam.exe
